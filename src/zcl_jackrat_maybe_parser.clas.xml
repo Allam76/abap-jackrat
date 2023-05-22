@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_JACKRAT_SCANNER</CLSNAME>
+    <CLSNAME>ZCL_JACKRAT_MAYBE_PARSER</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>scanner</DESCRIPT>
+    <DESCRIPT>maybe parser</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
